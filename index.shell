@@ -1,2 +1,4 @@
 1、导出requirements.txt
+```python
 /mnt/okx_swap/31574f8b1bd204d9fbd7ef00088a4e12_venv/bin/pip3 freeze > requirements.txt
+```
